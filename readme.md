@@ -22,11 +22,11 @@ Moments) và Histogram of Oriented Gradients [3] (HOG).
 
 - `HOG_nhom_02/`: Thư mục có dữ liệu và code khi trích xuất đặc trưng HOG
 - `HU_nhom_02/`: Thư mục có dữ liệu và code khi trích xuất đặc trưng HU's Moments
-- `KNN/`: Thư mục có dataset, code và các kết quả thu được khi sử dụng KNN và 2 loại đặc trưng HOG và HU's Moments
+- `KNN/`: Thư mục có dataset, code và các kết quả thu được khi sử dụng KNN với 2 loại đặc trưng HOG và HU's Moments
 - `Leaf_nhom_02/`: Thư mục có ảnh thô chưa trích xuất đặc trưng
 - `report/`: Thư mục chứa mã nguồn latex của báo cáo
 - `result/`: Thư mục chứa một số ảnh sơ đồ sử dụng trong báo cáo
-- `SVM/`: Thư mục có dataset, code và các kết quả thu được khi sử dụng SVM và 2 loại đặc trưng HOG và HU's Moments
+- `SVM/`: Thư mục có dataset, code và các kết quả thu được khi sử dụng SVM với 2 loại đặc trưng HOG và HU's Moments
 - `readme.md`: file này
 - `requirements.txt`: file thư viện cần thiết (hướng dẫn cài thư viện bên dưới)
 ## Cách sử dụng
